@@ -492,11 +492,6 @@
       "DE"
     ]
   },
-  "Wall": {
-    "*": [
-      "FR"
-    ]
-  },
   "abandoned": {
     "*": [
       "",
@@ -1316,6 +1311,7 @@
       "DE",
       "ES",
       "FR",
+      "Fa",
       "Pl",
       "Pt",
       "RU",
@@ -5770,19 +5766,24 @@
   "asphalt:type": {
     "*": [
       "",
-      "ES"
+      "ES",
+      "FR"
     ],
     "dense": [
-      ""
+      "",
+      "FR"
     ],
     "porous": [
-      ""
+      "",
+      "FR"
     ],
     "porous:double": [
-      ""
+      "",
+      "FR"
     ],
     "stone_mastic": [
-      ""
+      "",
+      "FR"
     ],
     "thin_surface_layer": [
       ""
@@ -6028,6 +6029,9 @@
       "DE",
       "ES",
       "RU"
+    ],
+    "seaplane_ride": [
+      ""
     ],
     "slide": [
       ""
@@ -8616,6 +8620,9 @@
       "",
       "RU"
     ],
+    "bathroom": [
+      ""
+    ],
     "beach_hut": [
       "",
       "ES",
@@ -9357,6 +9364,9 @@
       "Uk",
       "Yue"
     ],
+    "public_bath": [
+      ""
+    ],
     "quonset_hut": [
       "",
       "Uk"
@@ -9443,6 +9453,9 @@
       "Pl",
       "RU",
       "Uk"
+    ],
+    "sanitary": [
+      ""
     ],
     "sauna": [
       "",
@@ -11104,6 +11117,11 @@
       ""
     ]
   },
+  "catenary_mast:attachment": {
+    "*": [
+      ""
+    ]
+  },
   "catenary_mast:supporting": {
     "*": [
       ""
@@ -11170,6 +11188,7 @@
     ],
     "wood": [
       "",
+      "Da",
       "RU"
     ]
   },
@@ -13353,6 +13372,10 @@
       "Oc",
       "Pl"
     ],
+    "excavation": [
+      "",
+      "DE"
+    ],
     "fence_maker": [
       "",
       "DE",
@@ -14937,6 +14960,7 @@
     "*": [
       "",
       "DE",
+      "FR",
       "RU"
     ]
   },
@@ -16031,7 +16055,10 @@
   },
   "developer": {
     "*": [
-      ""
+      "",
+      "Ar",
+      "ES",
+      "FR"
     ]
   },
   "developer:ownership": {
@@ -16961,11 +16988,6 @@
       "",
       "JA",
       "RU"
-    ]
-  },
-  "edit_group": {
-    "*": [
-      ""
     ]
   },
   "editor": {
@@ -19324,6 +19346,11 @@
       "",
       "JA",
       "Pl"
+    ]
+  },
+  "games": {
+    "*": [
+      ""
     ]
   },
   "garden:style": {
@@ -22156,6 +22183,7 @@
       "Cs",
       "DE",
       "ES",
+      "El",
       "JA",
       "Ko",
       "Pl",
@@ -22960,11 +22988,6 @@
       ""
     ]
   },
-  "highway_construction:project": {
-    "*": [
-      ""
-    ]
-  },
   "hiking": {
     "*": [
       "",
@@ -23668,6 +23691,7 @@
     ],
     "detached": [
       "",
+      "FR",
       "Pt"
     ],
     "link-detached": [
@@ -25014,6 +25038,11 @@
       ""
     ]
   },
+  "kiss_ride": {
+    "*": [
+      ""
+    ]
+  },
   "kitchen": {
     "*": [
       "",
@@ -25719,6 +25748,7 @@
       "ES",
       "FR",
       "JA",
+      "Ko",
       "Pl",
       "Pt",
       "RU",
@@ -27936,6 +27966,8 @@
     ],
     "ceremonial_gate": [
       "",
+      "FR",
+      "Ko",
       "Zh-hans"
     ],
     "charge_point": [
@@ -29942,6 +29974,9 @@
       "ES",
       "Pl",
       "RU"
+    ],
+    "peace_pole": [
+      ""
     ],
     "plaque": [
       "",
@@ -34073,6 +34108,7 @@
     ],
     "hill": [
       "",
+      "DE",
       "ES",
       "Gcf",
       "JA",
@@ -34148,6 +34184,7 @@
     ],
     "mountain_range": [
       "",
+      "DE",
       "ES"
     ],
     "mud": [
@@ -34550,6 +34587,7 @@
     ],
     "rwe": [
       "",
+      "DE",
       "FR",
       "RU"
     ],
@@ -37131,6 +37169,7 @@
   "opening_hours/Tutorial/Example": {
     "*": [
       "",
+      "Cs",
       "FR",
       "JA",
       "Pt",
@@ -38352,6 +38391,9 @@
   },
   "path": {
     "*": [
+      ""
+    ],
+    "climbing_access": [
       ""
     ],
     "crossing": [
@@ -39972,6 +40014,7 @@
       "ES",
       "FR",
       "JA",
+      "Ko",
       "Pl",
       "Zh-hans"
     ],
@@ -40434,7 +40477,8 @@
   },
   "prominence": {
     "*": [
-      ""
+      "",
+      "DE"
     ]
   },
   "propagation": {
@@ -41266,6 +41310,7 @@
       "ES",
       "FR",
       "JA",
+      "Ko",
       "Pl"
     ],
     "signal_box": [
@@ -41484,6 +41529,11 @@
       ""
     ]
   },
+  "railway:ctc": {
+    "*": [
+      ""
+    ]
+  },
   "railway:ctcs": {
     "*": [
       ""
@@ -41504,6 +41554,11 @@
     ]
   },
   "railway:gnt": {
+    "*": [
+      ""
+    ]
+  },
+  "railway:interlaced": {
     "*": [
       ""
     ]
@@ -42049,6 +42104,11 @@
       "FR"
     ]
   },
+  "railway:twc": {
+    "*": [
+      ""
+    ]
+  },
   "railway:zbs": {
     "*": [
       ""
@@ -42193,6 +42253,7 @@
       "",
       "Cs",
       "DE",
+      "FR",
       "JA",
       "Pt"
     ]
@@ -43359,9 +43420,20 @@
       ""
     ]
   },
+  "ref:gnbc": {
+    "*": [
+      ""
+    ]
+  },
   "ref:goingelectric": {
     "*": [
       ""
+    ]
+  },
+  "ref:grillplatser.nu": {
+    "*": [
+      "",
+      "Sv"
     ]
   },
   "ref:gsi": {
@@ -44968,6 +45040,9 @@
       "Pl",
       "RU"
     ],
+    "bathroom": [
+      ""
+    ],
     "carrel": [
       ""
     ],
@@ -44977,6 +45052,9 @@
     "lecture_hall": [
       "",
       "RU"
+    ],
+    "shower": [
+      ""
     ]
   },
   "rooms": {
@@ -45711,6 +45789,11 @@
     ]
   },
   "scuba_diving:courses": {
+    "*": [
+      ""
+    ]
+  },
+  "scuba_diving:divespot": {
     "*": [
       ""
     ]
@@ -47477,6 +47560,14 @@
       ""
     ]
   },
+  "sector": {
+    "*": [
+      ""
+    ],
+    "historic": [
+      ""
+    ]
+  },
   "sector:name": {
     "*": [
       "",
@@ -48354,7 +48445,8 @@
       "RU"
     ],
     "beekeeping": [
-      ""
+      "",
+      "FR"
     ],
     "betting": [
       "",
@@ -50311,7 +50403,10 @@
     ],
     "telecommunication": [
       "",
+      "DE",
       "ES",
+      "FR",
+      "IT",
       "Pl",
       "RU"
     ],
@@ -52551,6 +52646,7 @@
       "",
       "DE",
       "ES",
+      "FR",
       "Uk"
     ],
     "rugby_league": [
@@ -52985,11 +53081,19 @@
     "*": [
       ""
     ],
+    "nišan_necropolis": [
+      ""
+    ],
     "stećak_necropolis": [
       ""
     ]
   },
   "stećak:format": {
+    "*": [
+      ""
+    ]
+  },
+  "stećak:nišan_count": {
     "*": [
       ""
     ]
@@ -53170,6 +53274,9 @@
   },
   "structure": {
     "*": [
+      ""
+    ],
+    "wall_mount": [
       ""
     ]
   },
@@ -53452,6 +53559,7 @@
     ],
     "carpet": [
       "",
+      "DE",
       "ES",
       "RU"
     ],
@@ -53462,6 +53570,7 @@
       "",
       "DE",
       "ES",
+      "FR",
       "RU"
     ],
     "clay": [
@@ -53487,6 +53596,7 @@
       "",
       "DE",
       "ES",
+      "FR",
       "JA",
       "RU"
     ],
@@ -53522,7 +53632,8 @@
       "ES"
     ],
     "fibre_reinforced_polymer_grate": [
-      ""
+      "",
+      "DE"
     ],
     "fine_gravel": [
       "",
@@ -53582,6 +53693,7 @@
     ],
     "metal_grid": [
       "",
+      "DE",
       "ES"
     ],
     "mud": [
@@ -53621,6 +53733,7 @@
     ],
     "rock": [
       "",
+      "DE",
       "ES"
     ],
     "rocks": [
@@ -53651,10 +53764,12 @@
       "Pt"
     ],
     "shells": [
-      ""
+      "",
+      "DE"
     ],
     "snow": [
       "",
+      "DE",
       "ES"
     ],
     "soil": [
@@ -53711,6 +53826,7 @@
     ],
     "woodchips": [
       "",
+      "DE",
       "ES"
     ]
   },
@@ -54746,7 +54862,8 @@
       "RU"
     ],
     "loculi": [
-      ""
+      "",
+      "DE"
     ],
     "mausoleum": [
       "",
@@ -55479,6 +55596,7 @@
     "timber": [
       "",
       "DE",
+      "Pt",
       "RU"
     ],
     "wood": [
@@ -55704,6 +55822,12 @@
       "DE"
     ],
     "DE:103-20": [
+      "DE"
+    ],
+    "DE:105-10": [
+      "DE"
+    ],
+    "DE:105-20": [
       "DE"
     ],
     "DE:124": [
@@ -56159,9 +56283,15 @@
       "RU",
       "Uk"
     ],
+    "blinker": [
+      ""
+    ],
     "continuous_green": [
       "",
       "RU"
+    ],
+    "emergency": [
+      ""
     ],
     "ramp_meter": [
       ""
@@ -56949,6 +57079,7 @@
     "*": [
       "",
       "Cs",
+      "DE",
       "ES",
       "FR",
       "JA",
@@ -58015,6 +58146,7 @@
       "",
       "DE",
       "ES",
+      "FR",
       "Pl",
       "RU"
     ],
@@ -59271,6 +59403,11 @@
       "Uk"
     ]
   },
+  "wild_camping": {
+    "*": [
+      ""
+    ]
+  },
   "windings": {
     "*": [
       "",
@@ -59615,6 +59752,7 @@
     "*": [
       "",
       "Cs",
+      "DE",
       "JA",
       "Pl",
       "RU"
